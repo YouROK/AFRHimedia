@@ -20,7 +20,7 @@ var defSettings4K = map[string]string{
         "576":           "1080, 2, 2",
 
 	"MainMenu":      "1080@60, 2, 2",
-	"Default":       "3840X2160@60, 2, 2",
+	"Default":       "3840X2160@60, 3, 0",
 	"Disabled":      "0",
 	"PauseMainMenu": "2",
 	"OMXDisable":    "0",
